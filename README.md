@@ -1,6 +1,6 @@
 # Music Project
 
-Tyrannosaurus Rex for breakfast
+Tyrannosaurus Rex for breakfast fried
 
 
 
