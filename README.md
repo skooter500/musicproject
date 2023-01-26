@@ -1,5 +1,7 @@
 # Music Project
 
+Tyrannosaurus Rex for breakfast
+
 ## My project
 
 ### Another thing
